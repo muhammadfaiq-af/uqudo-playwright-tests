@@ -13,7 +13,7 @@ export class CreateUser {
         this.roleDropdown = ".sc-aXZVg.sc-kuVLHQ.fQKjhk.knieFi"
         this.selectedRole = "div.css-10wo9uf-option:nth-child(3)"
         this.createBtn = "//h3[text()='Create']"
-        this.assertValidation = "//div[text()='User created successfully']"
+        this.assertValidation = "//div[text()='User created successfully']" 
     }
 
 
